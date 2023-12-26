@@ -1,12 +1,12 @@
 Amazon-like Website
 
 Description
-The Amazon-like Website is a responsive e-commerce web application designed to provide users with a familiar and user-friendly shopping experience. The website mimics certain design elements of the Amazon platform and includes features such as a dynamic navbar, search functionality, and product showcase sections.
+The Amazon-like Website is a e-commerce web application designed to provide users with a familiar and user-friendly shopping experience. The website mimics certain design elements of the Amazon platform and includes features such as a dynamic navbar, search functionality, and product showcase sections.
 
  LINK FOR THE  WEBPAGE : https://a-m-a-z-o-n-in.netlify.app
  
 Features
-Navbar: A dynamic and responsive navigation bar with a recognizable Amazon logo and various menu options.
+Navbar: A dynamic  bar with a recognizable Amazon logo and various menu options.
 Location Selector: Allows users to select their delivery location for a personalized experience.
 Search Bar: An interactive search bar with category selection and a magnifying glass icon for initiating searches.
 User Authentication: Displays a "Hello, sign in" section with links to user accounts, orders, and the shopping cart.
